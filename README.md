@@ -32,6 +32,7 @@
 
 ## Result
 2위 (2:30)
+
 ![image](https://user-images.githubusercontent.com/65532515/138212029-23f4ee4e-8987-45c4-a22b-25bcffe2dbb2.png)
 
 
